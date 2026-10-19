@@ -14,6 +14,8 @@ Read on the left, write on the right, and adjust the split to fit your workflow.
 
 ## Download and install
 
+[Download the app with Chinese installation guides](https://github.com/xululu0401/reading-companion/releases/download/v0.3.2/Reading-Companion-0.3.2-mac-arm64-with-guide.zip) · [macOS opening instructions (Simplified Chinese)](docs/MAC_OPEN_HELP.zh-CN.txt)
+
 Release `0.3.2` provides a ZIP for **macOS on Apple Silicon (M series)**. Intel Mac, Windows and Linux installers are not yet available. [Download the installer directly](https://github.com/xululu0401/reading-companion/releases/download/v0.3.2/Reading-Companion-0.3.2-mac-arm64.zip) without expanding the Release Assets list.
 
 Extract and move 阅读搭子.app to Applications. Version 0.3.2 fixes application signature integrity using ad-hoc signing. It still has **no official Developer ID signature or Apple notarization**, so macOS may block opening it. Keep system security protections enabled. Signing and notarization are planned for a future release. SHA256SUMS.txt verifies file integrity, not publisher identity. A separate mainland-China download endpoint is not configured yet.

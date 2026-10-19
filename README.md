@@ -16,6 +16,10 @@
 
 ## 下载与安装
 
+**[下载软件＋中文说明整包](https://github.com/xululu0401/reading-companion/releases/download/v0.3.2/Reading-Companion-0.3.2-mac-arm64-with-guide.zip)** · **[Mac 提示“无法验证 / 未打开”？查看打开说明](docs/MAC_OPEN_HELP.zh-CN.txt)**
+
+整包包含安装包、详细使用指南，以及单独的“Mac 打不开时先看这里”文件。
+
 点击上方下载链接即可获得安装包，无需展开 Releases 的附件列表。
 
 | 平台 | 当前提供 |
