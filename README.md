@@ -6,9 +6,9 @@
 
 把阅读、笔记和图文分享放在同一工作台：左侧读本地书或网页，右侧记录想法，再制作分享卡片。
 
-### [⬇ 下载 macOS 版（M 系列芯片）](https://github.com/xululu0401/reading-companion/releases/download/v0.3.1/Reading-Companion-0.3.1-mac-arm64.zip)
+### [⬇ 下载 macOS 版（M 系列芯片）](https://github.com/xululu0401/reading-companion/releases/download/v0.3.2/Reading-Companion-0.3.2-mac-arm64.zip)
 
-版本 **0.3.1** · ZIP 安装包 · [安装说明](#下载与安装) · [更新记录](https://github.com/xululu0401/reading-companion/releases/latest)
+版本 **0.3.2** · ZIP 安装包 · [安装说明](#下载与安装) · [更新记录](https://github.com/xululu0401/reading-companion/releases/latest)
 
 ![阅读与笔记：左侧阅读，右侧记录自己的想法](screenshots/reading-notes.png)
 
@@ -20,11 +20,11 @@
 
 | 平台 | 当前提供 |
 | --- | --- |
-| macOS / Apple Silicon（M 系列） | [下载 0.3.1 ZIP 安装包](https://github.com/xululu0401/reading-companion/releases/download/v0.3.1/Reading-Companion-0.3.1-mac-arm64.zip) |
+| macOS / Apple Silicon（M 系列） | [下载 0.3.2 ZIP 安装包](https://github.com/xululu0401/reading-companion/releases/download/v0.3.2/Reading-Companion-0.3.2-mac-arm64.zip) |
 | macOS / Intel | 暂未提供 |
 | Windows / Linux | 暂未提供安装包，尚未完成界面验证 |
 
-解压后将「阅读搭子.app」放入 Applications。当前安装包尚未进行 Developer ID 签名和 Apple 公证，macOS 可能阻止打开。请保留系统安全保护，签名与公证将在后续完善。安装前可按 Release 的 SHA256SUMS.txt 核对文件完整性；哈希不能替代开发者签名。
+解压后将「阅读搭子.app」放入 Applications。0.3.2 已修复应用签名完整性问题，使用本地（ad-hoc）签名；尚未进行 Developer ID 签名和 Apple 公证，macOS 仍可能阻止打开。请保留系统安全保护，签名与公证将在后续完善。安装前可按 Release 的 SHA256SUMS.txt 核对文件完整性；哈希不能替代开发者签名。
 
 国内独立下载线路尚未配置；本仓库不宣称 GitHub 在所有国内网络下都能稳定访问。
 

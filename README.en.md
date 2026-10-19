@@ -4,9 +4,9 @@
 
 Read local books or websites, take notes, and turn your ideas into image cards in one desktop workspace.
 
-### [⬇ Download for macOS (Apple Silicon)](https://github.com/xululu0401/reading-companion/releases/download/v0.3.1/Reading-Companion-0.3.1-mac-arm64.zip)
+### [⬇ Download for macOS (Apple Silicon)](https://github.com/xululu0401/reading-companion/releases/download/v0.3.2/Reading-Companion-0.3.2-mac-arm64.zip)
 
-Version **0.3.1** · ZIP installer · [Installation](#download-and-install) · [Release notes](https://github.com/xululu0401/reading-companion/releases/latest)
+Version **0.3.2** · ZIP installer · [Installation](#download-and-install) · [Release notes](https://github.com/xululu0401/reading-companion/releases/latest)
 
 ![Read and take notes side by side](screenshots/reading-notes.png)
 
@@ -14,9 +14,9 @@ Read on the left, write on the right, and adjust the split to fit your workflow.
 
 ## Download and install
 
-Release `0.3.1` provides a ZIP for **macOS on Apple Silicon (M series)**. Intel Mac, Windows and Linux installers are not yet available. [Download the installer directly](https://github.com/xululu0401/reading-companion/releases/download/v0.3.1/Reading-Companion-0.3.1-mac-arm64.zip) without expanding the Release Assets list.
+Release `0.3.2` provides a ZIP for **macOS on Apple Silicon (M series)**. Intel Mac, Windows and Linux installers are not yet available. [Download the installer directly](https://github.com/xululu0401/reading-companion/releases/download/v0.3.2/Reading-Companion-0.3.2-mac-arm64.zip) without expanding the Release Assets list.
 
-Extract and move 阅读搭子.app to Applications. This installer has **no official Developer ID signature or Apple notarization**, so macOS may block opening it. Keep system security protections enabled. Signing and notarization are planned for a future release. SHA256SUMS.txt verifies file integrity, not publisher identity. A separate mainland-China download endpoint is not configured yet.
+Extract and move 阅读搭子.app to Applications. Version 0.3.2 fixes application signature integrity using ad-hoc signing. It still has **no official Developer ID signature or Apple notarization**, so macOS may block opening it. Keep system security protections enabled. Signing and notarization are planned for a future release. SHA256SUMS.txt verifies file integrity, not publisher identity. A separate mainland-China download endpoint is not configured yet.
 
 ## Features
 
