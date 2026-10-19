@@ -1,6 +1,6 @@
 # Reading Companion user guide
 
-For the 0.3.x free preview and current unreleased improvements. Read local books or websites, take notes, and make share cards in one workspace. An account or AI key is not required for basic use. This guide is available offline.
+For version 0.3.x. Read local books or websites, take notes, and make share cards in one workspace. An account or AI key is not required for basic use. This guide is available offline.
 
 ## 1. Get started
 
@@ -10,7 +10,7 @@ For the 0.3.x free preview and current unreleased improvements. Read local books
 4. Choose “Create share cards”, edit the text and colors, then export images and copy the caption.
 5. Use “Back up” and keep the JSON file somewhere you manage. Keep the original books separately.
 
-Download installers from the official release page. This is an early preview; embedded websites and AI configuration require the desktop app.
+Download installers from the official release page. Embedded websites and AI configuration require the desktop app.
 
 ## 2. Find your way and view all notes
 
@@ -123,7 +123,7 @@ Default desktop user-data folder: `~/Library/Application Support/reading-compani
 
 ## 12. Limitations and feedback
 
-This is an early preview. OCR, handwriting recognition, PDF annotation, original-book full-text search, cloud sync, automatic social posting and official managed AI are not available. It does not offer the complete Goodnotes feature set. Windows/Linux GUI, every site and every model have not been fully tested. Translations still need native-speaker review.
+OCR, handwriting recognition, PDF annotation, original-book full-text search, cloud sync, automatic social posting and official managed AI are not available. It does not offer the complete Goodnotes feature set. Windows/Linux GUI, every site and every model have not been fully tested. Translations still need native-speaker review.
 
 Report the app version, OS and architecture, language, desktop/preview mode, exact steps, expected and actual behavior, and a screenshot without private data. Prefer a small original test file; never attach real keys, cookies, copyrighted books or your whole note library.
 

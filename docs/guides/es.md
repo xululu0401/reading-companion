@@ -1,6 +1,6 @@
 # Guía de Compañero de lectura
 
-Para la versión de prueba 0.3.x de uso gratuito y las mejoras aún no publicadas. Lee archivos o páginas web, toma notas y crea tarjetas para compartir. Las funciones básicas no requieren cuenta ni clave de IA. Esta guía funciona sin conexión.
+Para la versión 0.3.x. Lee archivos o páginas web, toma notas y crea tarjetas para compartir. Las funciones básicas no requieren cuenta ni clave de IA. Esta guía funciona sin conexión.
 
 ## 1. Primeros pasos
 
@@ -10,7 +10,7 @@ Para la versión de prueba 0.3.x de uso gratuito y las mejoras aún no publicada
 4. Crea tarjetas, edita el texto y los colores, exporta imágenes y copia el texto para publicar.
 5. Exporta una copia JSON y conserva los libros originales por separado.
 
-Descarga el instalador desde la página oficial de versiones. Es una versión preliminar; la navegación integrada y la configuración de IA requieren la aplicación de escritorio.
+Descarga el instalador desde la página oficial de versiones. La navegación integrada y la configuración de IA requieren la aplicación de escritorio.
 
 ## 2. Interfaz y lista de notas
 

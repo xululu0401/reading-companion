@@ -6,8 +6,10 @@ The copyright holders grant you a non-exclusive license to download official
 releases and install and use the included application without a software license
 fee, for personal or internal business use. You may keep backup copies for your
 own use. Third-party services, including AI providers, may charge separately.
-This permission applies to this release; future paid features or services will
-have separately disclosed terms. It does not promise perpetual free updates.
+Basic features remain free to use. Optional paid features or services may be
+introduced under separately disclosed terms; purchasing them is not required
+to continue using the basic features. This license does not include those
+optional services or guarantee ongoing maintenance or support.
 
 2. Reserved rights
 The application's original source code is not offered under an open-source
@@ -26,7 +28,7 @@ precedence for those components; see THIRD_PARTY_NOTICES.md and notices bundled
 with Electron. This license does not revoke rights previously validly granted
 under another license.
 
-4. Preview software and warranty
+4. Warranty
 The software is provided "AS IS", without warranties of merchantability,
 fitness for a particular purpose or noninfringement, to the extent permitted by
 law. Keep independent backups. To the extent permitted by law, the copyright
@@ -36,4 +38,5 @@ of the software. Mandatory statutory rights are not excluded.
 中文说明（以以上英文条款为准）：本版本允许免费下载、安装和个人或内部办公使用。
 自有代码不公开授权；未经书面许可，不得将其用于其他产品、修改衍生、再分发或转售，
 适用法律另有允许的除外。欢迎分享官方下载链接。第三方组件仍遵循各自的开源许可。
-用户保留自己的内容权利。AI 等第三方服务费用另计；未来付费功能单独说明。
+用户保留自己的内容权利。基础功能保持免费，可选付费功能或服务另行说明，不影响
+基础功能的免费使用。AI 等第三方服务费用另计；本许可不承诺持续维护或支持。
